@@ -3,8 +3,21 @@
   "name": "com.aiappsthatwork/tools",
   "title": "AI Apps That Work free tools",
   "description": "Real cost per AI result, LLM prices, switch costs, shutdown dates, A/B test sizes and judge checks.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://aiappsthatwork.com/connect",
+  "repository": {
+    "url": "https://github.com/amit-timalsina/aiappsthatwork-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://aiappsthatwork.com/brand/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
