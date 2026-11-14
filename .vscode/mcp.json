@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "ai-apps-that-work": {
+      "type": "http",
+      "url": "https://aiappsthatwork.com/mcp"
+    }
+  }
+}
