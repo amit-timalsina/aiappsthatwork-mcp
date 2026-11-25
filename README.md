@@ -7,6 +7,7 @@ Your coding agent can look up what your AI features really cost and what to chan
 - **Server URL:** `https://aiappsthatwork.com/mcp` (Streamable HTTP)
 - **Free, read-only, no sign-up and no API key**
 - **Official MCP registry:** `com.aiappsthatwork/tools`
+- **Glama:** https://glama.ai/mcp/connectors/com.aiappsthatwork/tools
 - **Docs:** https://aiappsthatwork.com/connect
 - **The same tools in a browser:** https://aiappsthatwork.com/tools
 
